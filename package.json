@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/totvs-fluig",
+    "nonNpm": true,
+    "version": "0.0.1",
+    "projects": [
+        "https://github.com/gabrielgnsilva/types-totvs-fluig.git"
+    ],
+    "dependencies": {
+        "@types/jquery": "^3.5.32"
+    },
+    "devDependencies": {
+        "@types/totvs-fluig": "workspace:.",
+        "@types/web": "^0.0.200"
+    },
+    "owners": [
+        {
+            "name": "Gabriel Nascimento",
+            "githubUsername": "gabrielgnsilva"
+        }
+    ]
+}
